@@ -21,4 +21,4 @@ This Python script is a domain enumeration tool that gathers information about a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/domain-enumeration-tool.git
+git clone https://github.com/zkeebl3/DomainScrutinizer.git
